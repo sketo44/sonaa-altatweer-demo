@@ -27,3 +27,13 @@
 @media(prefers-reduced-motion:reduce){.floating-socials>a{transition:none}.floating-socials>a:hover{transform:none}}
 .social-brand-icon{object-fit:contain;filter:none}.social-links>a img.social-brand-icon{width:20px;height:20px;flex-shrink:0}.floating-socials>a img.social-brand-icon{width:23px;height:23px;filter:none}
 .full-company-copy{background:#fff;color:var(--brand-blue)}.full-copy-inner{max-width:1000px;margin-inline:auto}.full-copy-group{padding-block:24px;border-bottom:1px solid var(--brand-border)}.full-copy-group:has(+.full-copy-group h2):last-child{border-bottom:0}.full-copy-group h2{font-size:28px;line-height:1.7;margin-bottom:16px;color:var(--brand-blue)}.full-copy-group p{font-size:17px;line-height:2.1;white-space:pre-line;color:#4b4f58;margin-block:12px;overflow-wrap:anywhere}.full-company-copy.embedded{padding:0}.full-company-copy .source-note{margin-top:26px;font-size:12px}.full-copy-group:has(h2):not(:has(p)){padding-bottom:0;border-bottom:0}.full-copy-group:has(h2):not(:has(p))+.full-copy-group{padding-top:12px}@media(max-width:760px){.full-copy-group h2{font-size:23px}.full-copy-group p{font-size:16px;line-height:2}.full-copy-inner{max-width:100%}}
+/* Social controls adapted from Uiverse.io by alafshate (chatty-mole-63). */
+.floating-socials{display:flex;flex-direction:column;gap:9px;padding:10px;background:#f5f5f5;border:1px solid #e4e8ef;border-radius:12px;box-shadow:0 3px 20px #14203712;left:18px;bottom:max(44px,env(safe-area-inset-bottom))}
+.floating-socials>a,.floating-socials>a:nth-child(n){width:48px;height:48px;border:0;border-radius:6px;background:#fff;box-shadow:0 1px 5px #14203712;overflow:hidden;transition:background-color .3s,transform .3s}
+.floating-socials>a:hover{transform:none;background:#e7ebf2}
+.floating-socials>a[href*="instagram"]:hover{background:#fbe7f0}.floating-socials>a[href*="snapchat"]:hover{background:#fffc00}.floating-socials>a[href*="tiktok"]:hover{background:#dff9f7}.floating-socials>a[href*="youtube"]:hover{background:#ffe5e5}
+.floating-socials>a:active{transform:scale(.9)}
+.floating-socials>a:hover .social-brand-icon{animation:social-slide-in-top .3s both}
+@keyframes social-slide-in-top{0%{transform:translateY(-50px);opacity:0}100%{transform:translateY(0);opacity:1}}
+@media(max-width:760px){.floating-socials{left:10px;gap:6px;padding:6px;border-radius:10px}.floating-socials>a,.floating-socials>a:nth-child(n){width:44px;height:44px}.floating-socials>a img.social-brand-icon{width:22px;height:22px}}
+@media(prefers-reduced-motion:reduce){.floating-socials>a{transition:none}.floating-socials>a:hover .social-brand-icon{animation:none}.floating-socials>a:active{transform:none}}
