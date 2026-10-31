@@ -31,3 +31,11 @@ header,header.inner-header,header.scrolled{position:fixed;inset:0 0 auto;height:
 
 .intro-about .button.action{width:300px;max-width:100%}.intro-about .button.action .action-label{font-size:14px}
 
+/* Floating text navigation: no solid header strip or side controls. */
+header,header.inner-header,header.scrolled{background:transparent;box-shadow:none;border:0;pointer-events:none;justify-content:center}
+header>.brand,header>.header-project-slot{display:none}
+header nav,header .menu-toggle{pointer-events:auto}
+header nav a{color:#fff;text-shadow:0 1px 5px #142037b3}
+header.scrolled nav a{color:var(--brand-blue);text-shadow:0 1px 3px #fff,0 0 12px #ffffffcc}
+header nav a.active,header nav a:hover{color:var(--brand-gold)}
+@media(max-width:760px){header,header.inner-header,header.scrolled{justify-content:flex-start}header .menu-toggle{color:white;text-shadow:0 1px 5px #142037b3}header.scrolled .menu-toggle{color:var(--brand-blue);text-shadow:0 1px 3px white}}
