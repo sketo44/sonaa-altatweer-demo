@@ -24,3 +24,7 @@ footer{background:var(--brand-blue-deep);color:white;padding-top:65px}.footer-to
 
 .hero .button.action.action-primary{background:var(--brand-gold)!important;color:var(--brand-blue)!important;border-color:var(--brand-gold)!important}.hero .button.action.action-secondary{background:transparent!important;border-color:#a3afc2!important}.hero .button.action.action-primary::before{background:#ffffff88}.hero .button.action.action-secondary::before{background:#ffffff20}
 
+
+/* Keep the header in one positioning mode; no jump at the scroll threshold. */
+header,header.inner-header,header.scrolled{position:fixed;inset:0 0 auto;height:92px;min-height:92px;transition:box-shadow .2s,background-color .2s}header.scrolled{box-shadow:0 3px 16px #14203724}html{scroll-padding-top:110px}@media(max-width:760px){header,header.inner-header,header.scrolled{height:76px;min-height:76px}.mobile-nav{inset-block-start:76px;max-height:calc(100svh - 76px);overflow-y:auto}html{scroll-padding-top:94px}}
+
