@@ -1,16 +1,16 @@
 {
-  "version": "2.0",
+  "version": "3.0",
   "name": "Rising Line / الخط الصاعد",
   "direction": "rtl",
   "colors": {
-    "ink": "#19352e",
-    "ivory": "#f7f5ef",
-    "sand": "#d8c29b",
-    "surface": "#eceee7",
-    "muted": "#59675e",
-    "accent": "#655939",
-    "line": "#d4d9cd",
-    "focus": "#a27328",
+    "ink": "#212d45",
+    "ivory": "#ffffff",
+    "sand": "#ffc03d",
+    "surface": "#f2f5f7",
+    "muted": "#4b4f58",
+    "accent": "#865c00",
+    "line": "#dce0e6",
+    "focus": "#a56d00",
     "error": "#a12f2f",
     "success": "#2d6250"
   },
@@ -81,5 +81,7 @@
     "mobileColumns": 2,
     "fit": "contain",
     "imageHeight": 215
-  }
+  },
+  "brandSource": "https://sonaaaltatweer.com/ — Astra global palette",
+  "logo": "public/images/company-logo.png"
 }
