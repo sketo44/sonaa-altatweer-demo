@@ -1,18 +1,49 @@
-# Sonaa Altatweer — independent website redesign demo
+# صناع التطوير — نموذج مستقل
 
-Arabic RTL React/Vite/TypeScript preview for commercial presentation. This is an independent, unofficial concept, not an approved company website or a sold project.
+نموذج تجريبي للبيع، غير رسمي وغير معتمد من الشركة. لم يُنشر ولم يُسجل كمشروع مباع.
 
-## Run
+## التشغيل
 
+Node.js 20.19+ أو 22.12+، وnpm. من هذا المجلد:
+
+```sh
 npm ci
 npm run dev
+```
 
-## Build
+افتح الرابط المحلي المطبوع. للبناء والفحص الإنتاجي:
 
+```sh
 npm run build
+npm run preview
+```
 
-GitHub Pages serves the committed docs/ directory. Source uses relative assets and hash routes. Forms prepare text locally; they do not submit data.
+## المحتوى
 
-Hero photo is illustrative (Unsplash); gallery images and partner marks come from the original company website. See ASSET_LICENSES.md and company-assets.json. No ownership of third-party assets is claimed.
+React 19 + Vite 7 + TypeScript + Tailwind CSS 4 + Motion. المسارات عبر HashRouter لتعمل على الاستضافة الثابتة وGitHub Pages دون قواعد إعادة كتابة. قاعدة الملفات نسبية. لا قاعدة بيانات أو خدمة استقبال، ولا مفاتيح أو تحليلات. لا يتم إرسال النموذج.
 
-Buttons adapted from Uiverse.io by vinodjangid07 and alexmaracinaru under the MIT license. See THIRD_PARTY_NOTICES.md.
+ملف src/data.ts مصدر الخدمات والصور والعروض التوضيحية. استبدلها بمشاريع حقيقية بعد توثيق الاسم والمعلومات وحقوق الصور. لا تغير عبارة الصور التوضيحية قبل ذلك. الشعار الخطي مقترح؛ استبدله بالشعار المعتمد بعد الإذن.
+
+## النشر — تعليمات فقط، لم يُنفذ
+
+- Netlify: build command `npm run build`، output `dist`.
+- GitHub Pages: ارفع محتويات dist بواسطة workflow أو branch مخصص. الروابط تستخدم hash لذلك تعمل في مسار مستودع فرعي.
+- احتفظ بـnoindex وrobots disallow خلال مرحلة النموذج. لا تنشر قبل موافقة المالك على النشر العام. هذه العلامات ليست حماية وصول؛ استخدم استضافة خاصة إذا شاركت معاينة حساسة.
+- بعد البيع والاعتماد: حدّث اسم النطاق النهائي، metadata وcanonical وsitemap للمسارات العامة، وراجع استراتيجية SEO (يفضل صفحات prerender بدلاً من hash)، واعتمد نصوص الشركة، وقنوات الطلبات، وسياسة الخصوصية. لا تضف بيانات منظمة تدعي أن المعاينة هي الموقع الرسمي.
+- لا توجد مهلة معاينة تلقائية. أي مدة عرض مستقبلي يجب تنفيذ إيقافها في الاستضافة.
+
+## التسليم
+
+COMPANY_RESEARCH.md، research-pages.json، DESIGN.md، design-tokens.json، design-preview.html، ASSET_LICENSES.md، TEST_REPORT.md، وصور المعاينة. `dist` نسخة البناء؛ `package-lock.json` يثبت التبعيات. لا حاجة إلى تضمين node_modules في التسليم.
+
+
+## تحديث الصور والشركاء — 30 أكتوبر 2026
+بناء على طلب المستخدم، استُبدلت صور Unsplash في الواجهة بصور المعرض الأصلي التسع، وأضيفت شعاراته الخمسة تحت تسمية «شركاؤنا» كما في المصدر. الاستخدام الحالي في نموذج محلي غير رسمي؛ لا يشكل طلب المستخدم إثباتًا لامتلاك حقوق الأصول أو إذنًا بالنشر العام. تظل موافقة النشر واعتماد حقوق الصور والشعارات مطلوبة قبل الإطلاق. العناوين وصفية، ولا تدعي أسماء مشاريع أو مواقع غير منشورة. سجل روابط الأصول: company-assets.json. هذا التحديث يحل محل وصف الصور التوضيحية السابق في الوثيقة.
+
+## نظام التصميم v2
+المعاينة الحية: /#/design-system. المكونات في src/Action.tsx، والتنسيق في src/design-system.css، والقيم في design-tokens.json. افتح design-preview.html للوحة مستقلة. صورة المرجع design-reference.png مولّدة بأداة الصور المدمجة؛ التنفيذ الفعلي SVG وHTML/CSS وليس صورة ثابتة.
+
+
+## المحتوى الكامل
+src/company-content.json هو سجل المحتوى الموثق. صفحات الخدمات على /#/services/:slug، مثل /#/services/construction. CompanyContent.tsx يعرض المعلومات المشتركة والإحصائيات والحسابات والخريطة، وcompany-content.css ينسقها. الإحصائيات من موقع الشركة ومؤرخة؛ البريد الإضافي والبيانات المتعارضة لا تُقدّم كمعلومات مستقلة التحقق.
+

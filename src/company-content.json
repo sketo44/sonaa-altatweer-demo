@@ -1,0 +1,549 @@
+{
+  "collectedAt": "2026-10-31",
+  "language": "ar",
+  "status": "معلومات الموقع الأصلي، جاهزة لإعادة تنظيم المحتوى دون اختلاق بيانات",
+  "sources": {
+    "home": "https://sonaaaltatweer.com/",
+    "about": "https://sonaaaltatweer.com/about/",
+    "contact": "https://sonaaaltatweer.com/contact/",
+    "projects": "https://sonaaaltatweer.com/projects-3/",
+    "services": "https://sonaaaltatweer.com/الخدمات/"
+  },
+  "identity": {
+    "name": "شركة صناع التطوير المحدودة",
+    "business": "مقاولات وتطوير عقاري",
+    "publishedRegistryNumber": "7032641248",
+    "registryVerification": "من تذييل الموقع فقط؛ لم يُتحقق من جهة حكومية",
+    "baseCity": "بريدة",
+    "region": "القصيم",
+    "country": "السعودية",
+    "servedMarkets": [
+      "المباني السكنية",
+      "المباني التجارية"
+    ],
+    "foundationDate": null,
+    "foundationNote": "سنوات الخبرة لا تُستخدم لاشتقاق تاريخ تأسيس غير منشور",
+    "logoUrl": "https://sonaaaltatweer.com/wp-content/uploads/2026/03/cropped-صناع_شعار.png",
+    "colors": {
+      "primary": "#ffc03d",
+      "hover": "#f8b526",
+      "dark": "#212d45",
+      "text": "#4b4f58",
+      "background": "#ffffff",
+      "surface": "#f2f5f7"
+    }
+  },
+  "about": {
+    "summary": "شركة في بريدة تعمل في المقاولات والتطوير العقاري، وتعرض خدمات للإنشاء والتشطيب والإدارة والإشراف والاستشارات.",
+    "mission": "تقديم خدمات عقارية وهندسية متكاملة، تجمع التنظيم والجودة والتحسين والالتزام بالمواصفات والمواعيد، مع الاهتمام بتجربة العميل.",
+    "values": [
+      "التطوير",
+      "الثقة",
+      "الإبداع",
+      "التميز"
+    ],
+    "teamDescription": "مهندسون ومتخصصون في إدارة المشاريع وفنيون، بحسب التعريف المنشور.",
+    "namedTeamMembers": [],
+    "teamNote": "لم تُنشر أسماء أو أعداد أو سير ذاتية موثقة لفريق الشركة.",
+    "source": "https://sonaaaltatweer.com/about/"
+  },
+  "statistics": [
+    {
+      "value": "84+",
+      "meaning": "مشروع منجز"
+    },
+    {
+      "value": "3+",
+      "meaning": "سنوات خبرة في السوق"
+    },
+    {
+      "value": "5+",
+      "meaning": "مشاريع قيد التنفيذ"
+    },
+    {
+      "value": "4",
+      "meaning": "مشاريع حكومية"
+    }
+  ],
+  "statisticsSource": "https://sonaaaltatweer.com/",
+  "statisticsVerification": "أرقام ذاتية النشر كما ظهرت في الموقع في تاريخ الجمع، وليست تحققًا مستقلاً أو أرقامًا لحظية",
+  "differentiators": [
+    "الدقة والجودة في التنفيذ",
+    "إدارة هندسية للمشروعات",
+    "تعدد الحلول الهندسية",
+    "الالتزام بالمواعيد",
+    "الوضوح والمصداقية في التعامل"
+  ],
+  "services": [
+    {
+      "id": "construction",
+      "name": "تنفيذ مشاريع البناء",
+      "source": "https://sonaaaltatweer.com/الخدمات/تنفيذ-مشاريع-البناء-في-بريدة/",
+      "summary": "تنفيذ مبانٍ سكنية وتجارية في بريدة والقصيم مع تنظيم فرق العمل ومتابعة الأعمال حتى التسليم.",
+      "scope": [
+        "أعمال الأساسات والهيكل الخرساني",
+        "بناء الجدران الداخلية والخارجية",
+        "التشطيبات الأساسية: الأرضيات والدهان والأسقف",
+        "تركيب النوافذ والأبواب",
+        "التمديدات الكهربائية والصحية",
+        "متابعة مطابقة التنفيذ للمخططات"
+      ],
+      "steps": [
+        "فحص الموقع وقراءة المخططات",
+        "تحديد الموارد ومراحل العمل والبرنامج الزمني",
+        "تنفيذ الأعمال تحت المتابعة الهندسية",
+        "مراجعة المواصفات ثم التسليم"
+      ],
+      "published_features": [
+        "كادر هندسي وفني",
+        "مواد معتمدة ومعدات حديثة",
+        "الالتزام بالبرنامج المتفق عليه"
+      ]
+    },
+    {
+      "id": "renovation",
+      "name": "الترميم والصيانة",
+      "source": "https://sonaaaltatweer.com/الخدمات/ترميم/",
+      "summary": "تأهيل المباني السكنية والتجارية وإصلاح الأضرار وتحسين التشطيبات وكفاءة الاستخدام.",
+      "scope": [
+        "إصلاح الشروخ والكسور في الجدران والسقوف",
+        "ترميم الأسقف من الداخل والخارج",
+        "معالجة الأضرار الإنشائية",
+        "تحديث التشطيبات",
+        "العزل وتجديد المرافق وفق صفحة الخدمات العامة"
+      ],
+      "steps": [
+        "زيارة الموقع وتقييم الأضرار",
+        "الاتفاق على نطاق الترميم والمواد والمدة",
+        "تنفيذ الإصلاحات مع المتابعة الهندسية",
+        "مراجعة النتيجة والتسليم"
+      ],
+      "published_features": [
+        "فريق فني وهندسي",
+        "استخدام مواد معتمدة",
+        "صيانة جزئية أو ترميم شامل"
+      ]
+    },
+    {
+      "id": "finishing",
+      "name": "تشطيب المباني السكنية والتجارية",
+      "source": "https://sonaaaltatweer.com/الخدمات/التشطيب/",
+      "summary": "تشطيبات داخلية وخارجية تراعي استخدام المبنى ومتطلبات العميل وميزانيته.",
+      "scope": [
+        "الدهانات",
+        "الأرضيات",
+        "الأسقف",
+        "الديكور الداخلي",
+        "تشطيبات داخلية وخارجية حتى جاهزية الاستخدام"
+      ],
+      "steps": [
+        "معاينة المبنى وتحديد المتطلبات",
+        "الاتفاق على نطاق الأعمال والتفاصيل",
+        "التنفيذ بمتابعة مباشرة",
+        "التسليم عند اكتمال الأعمال"
+      ],
+      "published_features": [
+        "فريق متخصص",
+        "الاهتمام بالمتانة وجودة المواد",
+        "حلول للمباني السكنية والتجارية"
+      ]
+    },
+    {
+      "id": "supervision",
+      "name": "الإشراف الهندسي",
+      "source": "https://sonaaaltatweer.com/الخدمات/الإشراف-الهندسي-على-المشاريع/",
+      "summary": "متابعة ميدانية للمشروع للتأكد من مطابقة التنفيذ والمواد للمخططات والمواصفات ومراقبة تقدم العمل.",
+      "scope": [
+        "مراجعة مطابقة التنفيذ للمخططات",
+        "مراقبة البناء والتشطيبات",
+        "فحص اعتماد المواد المستخدمة",
+        "متابعة المواعيد",
+        "التنسيق مع المقاولين والعاملين",
+        "تقارير دورية للمالك"
+      ],
+      "steps": [
+        "قراءة المخططات ومعاينة الموقع",
+        "تحديد خطة المتابعة والجدول",
+        "زيارات ومراقبة للتنفيذ وتقارير تقدم",
+        "مراجعة التسليم وفق المتطلبات"
+      ],
+      "published_features": [
+        "إشراف مباشر",
+        "خبرة يذكرها الموقع في مبانٍ سكنية وتجارية وحكومية",
+        "متابعة وفق المعايير السعودية كما يصفها الموقع؛ ليست شهادة اعتماد مستقلة"
+      ]
+    },
+    {
+      "id": "management",
+      "name": "إدارة المشاريع",
+      "source": "https://sonaaaltatweer.com/الخدمات/إدارة-مشاريع/",
+      "summary": "تنظيم المشروع وموارده وأطرافه ومراقبة الوقت والتكاليف والجودة من التخطيط إلى التسليم.",
+      "scope": [
+        "إعداد الخطة والمراحل الزمنية",
+        "التنسيق بين الفرق والمقاولين والموردين والمستشارين",
+        "متابعة المصروفات والميزانية",
+        "مراقبة الجودة والمواصفات والسلامة",
+        "تقديم تقارير تقدم للعميل",
+        "إدارة المخاطر ومتابعة أهداف المشروع"
+      ],
+      "steps": [
+        "تحليل الأهداف والاحتياجات",
+        "تخطيط الموارد والفرق",
+        "متابعة الإنجاز والجودة",
+        "التسليم بعد مراجعة الأهداف"
+      ],
+      "published_features": [
+        "تنسيق متكامل للأطراف",
+        "متابعة الميزانية والبرنامج",
+        "تقارير للعميل"
+      ]
+    },
+    {
+      "id": "quantities",
+      "name": "حصر الكميات",
+      "source": "https://sonaaaltatweer.com/الخدمات/حصر-الكميات-في-المشاريع/",
+      "summary": "حساب احتياجات المشروع من المواد وإعداد تقديرات الكميات والتكلفة للمساعدة في ضبط الميزانية.",
+      "scope": [
+        "مراجعة المخططات",
+        "قياس مواد كل مرحلة وبنود العمل",
+        "تقدير التكلفة والموارد",
+        "إعداد جداول وتقارير للمالك والمقاولين",
+        "مراجعة الكميات أثناء التنفيذ لتقليل العجز والفائض"
+      ],
+      "steps": [
+        "دراسة الرسومات الهندسية",
+        "حساب مكونات الأعمال وموادها",
+        "إعداد الجداول وتقدير التكلفة",
+        "تحديث الحصر أثناء التنفيذ عند الحاجة"
+      ],
+      "published_features": [
+        "تقارير مفصلة",
+        "تقليل هدر المواد وفق وصف الشركة",
+        "دعم القرارات المالية والإدارية"
+      ]
+    },
+    {
+      "id": "consulting",
+      "name": "الاستشارات الهندسية",
+      "source": "https://sonaaaltatweer.com/الخدمات/الاستشارات-الهندسية/",
+      "summary": "دراسة فنية للمتطلبات والخيارات والمشكلات لمساندة قرارات المالك قبل التنفيذ وأثناءه.",
+      "scope": [
+        "مراجعة المخططات والمستندات وإبداء التوصيات",
+        "استشارات تتعلق بتصميم المخططات",
+        "المساعدة في اختيار المواد والمعدات",
+        "اقتراح طرق تنفيذ وحلول للمشكلات التقنية",
+        "تقييم الجودة والمخاطر في المشاريع القائمة",
+        "تقارير مكتوبة أو شفهية للعميل"
+      ],
+      "steps": [
+        "مراجعة أولية للمستندات",
+        "تحديد السؤال الاستشاري ونطاقه",
+        "دراسة البدائل وإعداد التوصيات",
+        "عرض النتائج والتقارير"
+      ],
+      "published_features": [
+        "كادر هندسي متخصص بحسب الموقع",
+        "توصيات فنية واقتصادية",
+        "دعم القرار وتوضيح الحلول"
+      ]
+    }
+  ],
+  "contact": {
+    "phoneLocal": "0580777175",
+    "phoneE164": "+966580777175",
+    "phoneLink": "tel:+966580777175",
+    "whatsapp": "https://wa.me/966580777175",
+    "emails": [
+      {
+        "address": "info@sonaaaltatweer.com",
+        "use": "بريد التواصل العام المتكرر",
+        "source": "https://sonaaaltatweer.com/contact/"
+      },
+      {
+        "address": "ceo@sonaaaltatweer.com",
+        "use": "منشور في صفحة التواصل",
+        "source": "https://sonaaaltatweer.com/contact/"
+      },
+      {
+        "address": "contact@sonaaaltatweer.com",
+        "use": "رابط بريد في صفحة إدارة المشاريع فقط؛ يلزم التأكيد قبل اعتماده رئيسيًا",
+        "source": "https://sonaaaltatweer.com/الخدمات/إدارة-مشاريع/"
+      }
+    ],
+    "address": "الصناعة، النازية، بريدة، القصيم، المملكة العربية السعودية",
+    "postalVariants": [
+      "51411",
+      "523596658"
+    ],
+    "postalNote": "قيمتان مختلفتان منشورتان؛ لا تعتمد الرمز البريدي قبل التأكيد",
+    "mapsUrl": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D8%B5%D9%86%D8%A7%D8%B9+%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1+%D9%84%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D8%A9%E2%80%AD/@26.3435495,43.9566677,17z/data=!4m14!1m7!3m6!1s0x3c869790251bab:0x25ddc8e8eff8c80c!2z2LTYsdmD2Kkg2LXZhtin2Lkg2KfZhNiq2LfZiNmK2LEg2YTZhNmF2YLYp9mI2YTYp9iqINin2YTZhdit2K_ZiNiv2Kk!8m2!3d26.3435495!4d43.9566677!16s%2Fg%2F11yy2yk0qn!3m5!1s0x3c869790251bab:0x25ddc8e8eff8c80c!8m2!3d26.3435495!4d43.9566677!16s%2Fg%2F11yy2yk0qn!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDMyMy4xIKXMDSoASAFQAw%3D%3D",
+    "alternateMapsUrl": "https://www.google.com/maps/place/%D8%B5%D9%86%D8%A7%D8%B9+%D8%AA%D8%B7%D9%88%D9%8A%D8%B1+%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A+%D9%84%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9%E2%80%AD/@26.3431976,43.9563915,625m/data=!3m2!1e3!4b1!4m6!3m5!1s0x157f5938e183d3ef:0x9b2a69384a3e91cb!8m2!3d26.3431976!4d43.9563915!16s%2Fg%2F11y99rcm69?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+    "coordinates": {
+      "lat": 26.3435495,
+      "lng": 43.9566677
+    },
+    "mapNote": "رابط الصفحة وخريطة التضمين يشيران إلى موقع، والتذييل إلى نقطة قريبة أخرى؛ لا يُفترض أنها فرع ثانٍ.",
+    "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2723.5050509502244!2d43.9566677!3d26.343549499999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3c869790251bab%3A0x25ddc8e8eff8c80c!2z2LTYsdmD2Kkg2LXZhtin2Lkg2KfZhNiq2LfZiNmK2LEg2YTZhNmF2YLYp9mI2YTYp9iqINin2YTZhdit2K_ZiNiv2Kk!5e1!3m2!1sar!2s!4v1774690063359!5m2!1sar!2s",
+    "officeHours": null,
+    "verification": "لم تُجر مكالمة أو رسالة أو اختبار تسليم بريد.",
+    "source": "https://sonaaaltatweer.com/contact/"
+  },
+  "socialAccounts": [
+    {
+      "platform": "سناب شات",
+      "handle": "sunaa_sa",
+      "url": "https://www.snapchat.com/add/sunaa_sa",
+      "verification": "رابط منشور في الموقع؛ لم تُثبت ملكية الحساب بشكل مستقل",
+      "sources": [
+        "https://sonaaaltatweer.com/",
+        "https://sonaaaltatweer.com/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%aa%d8%b4%d8%b7%d9%8a%d8%a8/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%aa%d8%b1%d9%85%d9%8a%d9%85/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%af%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%af%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/about/",
+        "https://sonaaaltatweer.com/author/adhamsalehalsayadi2gmail-com/",
+        "https://sonaaaltatweer.com/contact/",
+        "https://sonaaaltatweer.com/form/",
+        "https://sonaaaltatweer.com/form/2890/",
+        "https://sonaaaltatweer.com/hello-world/",
+        "https://sonaaaltatweer.com/projects-3/",
+        "https://sonaaaltatweer.com/services-7/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/services-7/%d8%a7%d9%84%d8%aa%d8%b4%d8%b7%d9%8a%d8%a8/",
+        "https://sonaaaltatweer.com/services-7/%d8%aa%d9%86%d9%81%d9%8a%d8%b0/",
+        "https://sonaaaltatweer.com/services/",
+        "https://sonaaaltatweer.com/uncategorized/"
+      ]
+    },
+    {
+      "platform": "إنستغرام",
+      "handle": "sunaa_sa",
+      "url": "https://www.instagram.com/sunaa_sa/",
+      "verification": "رابط منشور في الموقع؛ لم تُثبت ملكية الحساب بشكل مستقل",
+      "sources": [
+        "https://sonaaaltatweer.com/",
+        "https://sonaaaltatweer.com/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%aa%d8%b4%d8%b7%d9%8a%d8%a8/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%aa%d8%b1%d9%85%d9%8a%d9%85/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%af%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%af%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/about/",
+        "https://sonaaaltatweer.com/author/adhamsalehalsayadi2gmail-com/",
+        "https://sonaaaltatweer.com/contact/",
+        "https://sonaaaltatweer.com/form/",
+        "https://sonaaaltatweer.com/hello-world/",
+        "https://sonaaaltatweer.com/projects-3/",
+        "https://sonaaaltatweer.com/services-7/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/services-7/%d8%a7%d9%84%d8%aa%d8%b4%d8%b7%d9%8a%d8%a8/",
+        "https://sonaaaltatweer.com/services-7/%d8%aa%d9%86%d9%81%d9%8a%d8%b0/",
+        "https://sonaaaltatweer.com/services/",
+        "https://sonaaaltatweer.com/uncategorized/"
+      ]
+    },
+    {
+      "platform": "تيك توك",
+      "handle": "sunaa_sa",
+      "url": "https://www.tiktok.com/@sunaa_sa",
+      "verification": "رابط منشور في الموقع؛ لم تُثبت ملكية الحساب بشكل مستقل",
+      "sources": [
+        "https://sonaaaltatweer.com/",
+        "https://sonaaaltatweer.com/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%aa%d8%b4%d8%b7%d9%8a%d8%a8/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%aa%d8%b1%d9%85%d9%8a%d9%85/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%af%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%af%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/about/",
+        "https://sonaaaltatweer.com/author/adhamsalehalsayadi2gmail-com/",
+        "https://sonaaaltatweer.com/contact/",
+        "https://sonaaaltatweer.com/form/",
+        "https://sonaaaltatweer.com/hello-world/",
+        "https://sonaaaltatweer.com/projects-3/",
+        "https://sonaaaltatweer.com/services-7/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/services-7/%d8%a7%d9%84%d8%aa%d8%b4%d8%b7%d9%8a%d8%a8/",
+        "https://sonaaaltatweer.com/services-7/%d8%aa%d9%86%d9%81%d9%8a%d8%b0/",
+        "https://sonaaaltatweer.com/services/",
+        "https://sonaaaltatweer.com/uncategorized/"
+      ]
+    },
+    {
+      "platform": "يوتيوب",
+      "handle": "UCRr3JDrjqt9aj7l4sikyVNQ",
+      "url": "https://www.youtube.com/channel/UCRr3JDrjqt9aj7l4sikyVNQ",
+      "verification": "رابط منشور في الموقع؛ لم تُثبت ملكية الحساب بشكل مستقل",
+      "sources": [
+        "https://sonaaaltatweer.com/",
+        "https://sonaaaltatweer.com/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%81-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%84%d8%aa%d8%b4%d8%b7%d9%8a%d8%a8/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%aa%d8%b1%d9%85%d9%8a%d9%85/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%af%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%af%d8%a9/",
+        "https://sonaaaltatweer.com/%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/about/",
+        "https://sonaaaltatweer.com/author/adhamsalehalsayadi2gmail-com/",
+        "https://sonaaaltatweer.com/contact/",
+        "https://sonaaaltatweer.com/form/",
+        "https://sonaaaltatweer.com/hello-world/",
+        "https://sonaaaltatweer.com/projects-3/",
+        "https://sonaaaltatweer.com/services-7/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9/",
+        "https://sonaaaltatweer.com/services-7/%d8%a7%d9%84%d8%aa%d8%b4%d8%b7%d9%8a%d8%a8/",
+        "https://sonaaaltatweer.com/services-7/%d8%aa%d9%86%d9%81%d9%8a%d8%b0/",
+        "https://sonaaaltatweer.com/services/",
+        "https://sonaaaltatweer.com/uncategorized/"
+      ]
+    }
+  ],
+  "quoteForm": {
+    "source": "https://sonaaaltatweer.com/contact/",
+    "fields": [
+      "الاسم الأول",
+      "اللقب",
+      "البريد الإلكتروني",
+      "رقم الهاتف",
+      "نوع الخدمة",
+      "وصف الطلب"
+    ],
+    "serviceChoices": [
+      "تشطيب",
+      "تنفيذ",
+      "استشارة",
+      "إدارة"
+    ],
+    "note": "جمع تعريف الحقول فقط؛ لا نسخ لإعدادات الإرسال أو المفاتيح أو الحقول الأمنية، ولم يُرسل طلب."
+  },
+  "portfolio": {
+    "source": "https://sonaaaltatweer.com/projects-3/",
+    "galleryImages": 9,
+    "assets": [
+      {
+        "file": "project-1.png",
+        "url": "https://sonaaaltatweer.com/wp-content/uploads/2026/01/image-19-822x1024.png",
+        "kind": "project"
+      },
+      {
+        "file": "project-2.png",
+        "url": "https://sonaaaltatweer.com/wp-content/uploads/2026/01/image-20.png",
+        "kind": "project"
+      },
+      {
+        "file": "project-3.png",
+        "url": "https://sonaaaltatweer.com/wp-content/uploads/2026/01/image-21.png",
+        "kind": "project"
+      },
+      {
+        "file": "project-4.png",
+        "url": "https://sonaaaltatweer.com/wp-content/uploads/2026/01/image-22.png",
+        "kind": "project"
+      },
+      {
+        "file": "project-5.png",
+        "url": "https://sonaaaltatweer.com/wp-content/uploads/2026/01/image-23.png",
+        "kind": "project"
+      },
+      {
+        "file": "project-6.png",
+        "url": "https://sonaaaltatweer.com/wp-content/uploads/2026/01/image-24-576x1024.png",
+        "kind": "project"
+      },
+      {
+        "file": "project-7.png",
+        "url": "https://sonaaaltatweer.com/wp-content/uploads/2026/01/image-25.png",
+        "kind": "project"
+      },
+      {
+        "file": "project-8.png",
+        "url": "https://sonaaaltatweer.com/wp-content/uploads/2026/01/image-26.png",
+        "kind": "project"
+      },
+      {
+        "file": "project-9.png",
+        "url": "https://sonaaaltatweer.com/wp-content/uploads/2026/01/image-27.png",
+        "kind": "project"
+      }
+    ],
+    "projectNamesPublished": false,
+    "citiesAreasDatesPublished": false,
+    "beforeAfterPairsVerified": false,
+    "note": "المعرض صور عامة، ولا توجد ملفات مشاريع مستقلة بأسماء ومساحات وتواريخ تسمح بملء تفاصيل حقيقية. لا يُعد عدد الصور عدد مشاريع مستقلة."
+  },
+  "partners": {
+    "source": "https://sonaaaltatweer.com/projects-3/",
+    "labelInSource": "شركائنا",
+    "items": [
+      {
+        "name": "جوتن",
+        "asset": "partner-1.png"
+      },
+      {
+        "name": "شركة الصباح للتجارة والمقاولات",
+        "asset": "partner-2.png"
+      },
+      {
+        "name": "الفنار",
+        "asset": "partner-3.png"
+      },
+      {
+        "name": "الجبلي",
+        "asset": "partner-4.png"
+      },
+      {
+        "name": "الفوزان",
+        "asset": "partner-5.png"
+      }
+    ],
+    "note": "تسمية المصدر شركاء، لا دليل على أنهم عملاء أو أن هناك شهادات اعتماد رسمية."
+  },
+  "excludedAttribution": {
+    "name": "أدهم الصيادي",
+    "url": "https://www.linkedin.com/in/adham-alsayadi-22b6b8151/",
+    "reason": "مذكور كمصمم ومطور للموقع؛ ليس حساب الشركة ولا دليلًا على عضوية فريقها."
+  },
+  "missingOrUnconfirmed": [
+    "تاريخ تأسيس محدد",
+    "ساعات العمل",
+    "الاسم الرسمي التفصيلي للمشاريع ومساحاتها ومدنها وتواريخها",
+    "أسماء وأعداد فريق العمل",
+    "شهادات واعتمادات يمكن التحقق منها",
+    "قائمة عملاء موثقة",
+    "تأكيد البريد الإضافي والرمز البريدي ونقطة الخريطة",
+    "التحقق المستقل من أرقام الإنجازات"
+  ],
+  "coverage": {
+    "publicPagesInWpApi": 12,
+    "htmlResponses": 28,
+    "successfulHtmlResponses": 26,
+    "allResponses": 43,
+    "uniqueImageUrls": 34,
+    "note": "تشمل الروابط البديلة والمكررة والصفحات الافتراضية؛ قائمة WordPress العامة تضم 12 صفحة محتوى. لم تُسحب بيانات إدارية أو خاصة."
+  }
+}
