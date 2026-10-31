@@ -5,6 +5,7 @@ import {motion,MotionConfig,useReducedMotion} from 'motion/react';
 import {services,visuals,partners,img} from './data';
 import './style.css';
 import './design-system.css';
+import './brand-blue.css';
 import {Action} from './Action';
 import DesignSystem from './DesignSystem';
 
