@@ -1,0 +1,5 @@
+import type {ReactNode} from 'react';
+import {Link} from 'react-router-dom';
+
+export function RibbonFrame(){return <svg className="ribbon-frame" aria-hidden="true" viewBox="0 0 360 110" preserveAspectRatio="none"><path vectorEffect="non-scaling-stroke" d="M60 21 Q62 18 65 20 L113 54 Q116 56 119 56 H354 Q358 56 358 60 V104 Q358 108 354 108 H98 Q95 108 92 106 L33 64 Q30 62 32 59 Z"/></svg>}
+export function Action({children,to,variant='primary',disabled=false,onClick}:{children:ReactNode;to?:string;variant?:'primary'|'secondary'|'sand';disabled?:boolean;onClick?:()=>void}){const content=<><span className="action-label">{children}</span><svg className="action-arrow" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M19 12H5m7-7-7 7 7 7" stroke="currentColor" strokeWidth="1.5"/></svg></>;const className=`button action action-${variant}`;return to?<Link className={className} to={to}>{content}</Link>:<button className={className} disabled={disabled} onClick={onClick} type="button">{content}</button>}

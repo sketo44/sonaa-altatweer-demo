@@ -1,0 +1,85 @@
+{
+  "version": "2.0",
+  "name": "Rising Line / الخط الصاعد",
+  "direction": "rtl",
+  "colors": {
+    "ink": "#19352e",
+    "ivory": "#f7f5ef",
+    "sand": "#d8c29b",
+    "surface": "#eceee7",
+    "muted": "#59675e",
+    "accent": "#655939",
+    "line": "#d4d9cd",
+    "focus": "#a27328",
+    "error": "#a12f2f",
+    "success": "#2d6250"
+  },
+  "type": {
+    "heading": "Alexandria",
+    "body": "IBM Plex Sans Arabic",
+    "bodySize": 17,
+    "bodyLineHeight": 1.85,
+    "headingLineHeight": 1.65,
+    "scale": [
+      12,
+      14,
+      16,
+      17,
+      20,
+      24,
+      32,
+      40,
+      48,
+      68
+    ]
+  },
+  "spacing": [
+    8,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96
+  ],
+  "breakpoints": {
+    "mobile": 760,
+    "tablet": 1100
+  },
+  "radius": {
+    "small": 3,
+    "image": 3
+  },
+  "action": {
+    "svgViewBox": "0 0 360 110",
+    "width": 340,
+    "height": 100,
+    "mobileWidth": 292,
+    "mobileHeight": 88,
+    "variants": [
+      "primary",
+      "secondary",
+      "sand"
+    ],
+    "states": [
+      "default",
+      "hover",
+      "focus-visible",
+      "disabled"
+    ],
+    "shape": "horizontal band with up-left wing; no skewed text"
+  },
+  "motion": {
+    "feedback": 220,
+    "imageHover": 450,
+    "reveal": 550,
+    "reducedMotion": true
+  },
+  "gallery": {
+    "desktopColumns": 4,
+    "tabletColumns": 3,
+    "mobileColumns": 2,
+    "fit": "contain",
+    "imageHeight": 215
+  }
+}
