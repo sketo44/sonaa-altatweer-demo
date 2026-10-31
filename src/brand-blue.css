@@ -39,3 +39,8 @@ header nav a{color:#fff;text-shadow:0 1px 5px #142037b3}
 header.scrolled nav a{color:var(--brand-blue);text-shadow:0 1px 3px #fff,0 0 12px #ffffffcc}
 header nav a.active,header nav a:hover{color:var(--brand-gold)}
 @media(max-width:760px){header,header.inner-header,header.scrolled{justify-content:flex-start}header .menu-toggle{color:white;text-shadow:0 1px 5px #142037b3}header.scrolled .menu-toggle{color:var(--brand-blue);text-shadow:0 1px 3px white}}
+/* Keep the company identity and contact control on the transparent header. */
+header,header.inner-header,header.scrolled{justify-content:space-between}
+header>.brand{display:flex;pointer-events:auto}
+header>.header-project-slot{display:flex;pointer-events:auto}
+@media(max-width:760px){header>.header-project-slot{display:none}}
