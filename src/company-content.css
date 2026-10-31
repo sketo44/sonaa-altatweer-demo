@@ -25,3 +25,4 @@
 .floating-socials .social-brand-icon{width:23px;height:23px}.floating-socials>a:hover{transform:scale(1.08);background:var(--brand-gold);color:var(--brand-blue);z-index:1}.floating-socials>a:focus-visible{outline:3px solid var(--brand-gold);outline-offset:3px}
 @media(max-width:760px){.floating-socials{left:12px;bottom:max(40px,env(safe-area-inset-bottom));grid-template-columns:repeat(2,44px);gap:4px}.floating-socials>a{width:44px;height:44px}.floating-socials .social-brand-icon{width:20px;height:20px}}
 @media(prefers-reduced-motion:reduce){.floating-socials>a{transition:none}.floating-socials>a:hover{transform:none}}
+.social-brand-icon{object-fit:contain;filter:none}.social-links>a img.social-brand-icon{width:20px;height:20px;flex-shrink:0}.floating-socials>a img.social-brand-icon{width:23px;height:23px;filter:none}
